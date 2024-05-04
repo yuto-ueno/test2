@@ -6,5 +6,5 @@ steps:
   - deploy
   - test-function-2
   - --region=asia-northeast1
-  - --source=./
+  - --source=.
   - --entry-point=hello_pubsub
